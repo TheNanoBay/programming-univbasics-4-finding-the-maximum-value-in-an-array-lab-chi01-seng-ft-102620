@@ -1,3 +1,4 @@
 def find_max_value(array)
-  # Add your solution here
-end
+  max_value = 0 
+  counter = 0 
+end   
